@@ -1,1 +1,0 @@
-# shodrex-init2
